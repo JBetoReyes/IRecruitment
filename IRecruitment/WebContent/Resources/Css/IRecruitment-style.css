@@ -1,0 +1,29 @@
+button{
+	padding-left: 0;
+}
+
+.glyphicon-plus,.glyphicon-minus{
+		text-align: center;
+		text-shadow:  0 0 1px black, 0 0 1px black,
+		0 0 1px black, 0 0 1px black,
+		0 0 1px black, 0 0 1px black;
+}
+
+.glyphicon-minus:hover{
+
+	text-shadow:  0 0 0px black, 0 0 0px black,
+	0 0 0px black, 0 0 0px black,
+	0 0 0px black, 0 0 0px black;
+}
+.glyphicon-plus:hover{
+
+	text-shadow:  0 0 0px black, 0 0 0px black,
+	0 0 0px black, 0 0 0px black,
+	0 0 0px black, 0 0 0px black;
+}
+
+.btn-primary{
+	text-shadow:  0 0 1px black, 0 0 1px black,
+	0 0 1px black, 0 0 1px black,
+	0 0 1px black, 0 0 1px black;
+}

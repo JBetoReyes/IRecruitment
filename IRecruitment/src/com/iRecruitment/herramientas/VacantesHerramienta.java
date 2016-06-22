@@ -33,5 +33,10 @@ public class VacantesHerramienta {
     	
     	return results;
     }
+    
+    public void addVacante(Vacantes v)
+    {
+    	em.persist(v);
+    }
 
 }

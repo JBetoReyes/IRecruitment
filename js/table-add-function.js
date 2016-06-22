@@ -1,4 +1,4 @@
-//se guardan las clases de tabla y los botones
+f//se guardan las clases de tabla y los botones
 var $TABLE = $('#table');
 var $BTN = $('#export-btn');
 var $EXPORT = $('#export');

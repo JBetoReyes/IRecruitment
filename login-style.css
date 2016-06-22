@@ -1,0 +1,11 @@
+.navbar-toggle .icon-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background-color: #DA0303;
+  border-radius: 1px;
+}
+
+.navbar-header .navbar-brand{
+	color:#0D656C;
+}
